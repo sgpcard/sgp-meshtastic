@@ -19,6 +19,17 @@ and scan the band — all from your phone over WiFi.
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="docs/chat.jpg"  width="215" alt="Chat over the mesh">
+  <img src="docs/nodes.jpg" width="215" alt="Live node list">
+  <img src="docs/radio.jpg" width="215" alt="Radio configuration">
+  <img src="docs/scan.jpg"  width="215" alt="Spectrum scan">
+</p>
+
+<p align="center"><em>Chat over the mesh · live node list · region/preset/power · spectrum scan — all from your phone over WiFi.</em></p>
+
 ## What it does
 
 - **Chat** — broadcast text messages on the mesh; incoming messages from other
